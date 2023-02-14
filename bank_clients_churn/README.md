@@ -34,4 +34,4 @@
 
 ## Используемые библиотеки
 
-*pandas*, * numpy*, *sklearn*, *matplotlib*
+*pandas*, *numpy*, *sklearn*, *matplotlib*

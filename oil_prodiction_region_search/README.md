@@ -25,4 +25,4 @@
 
 ## Инструменты и навыки
 
-*pandas*, * numpy*, *sklearn*, *matplotlib*, *seaborn*, *scipy*, *pandas_profiling*, *bootstrap*
+*pandas*, *numpy*, *sklearn*, *matplotlib*, *seaborn*, *scipy*, *pandas_profiling*, *bootstrap*
